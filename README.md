@@ -1,2 +1,2 @@
 # Power-BI-Sales-Dashboard
-Analyzed Amazon sales data using Python: (NumPy, Pandas, Seaborn, Matplotlib) to clean, visualize trends, and generate business insights. Created dashboards to highlight revenue patterns, top-selling products, and customer preferences.
+This Power BI project provides an interactive sales dashboard, enabling businesses to analyze performance across various dimensions. The dashboard visualizes sales trends, order distribution, and shop-related metrics, offering actionable insights for decision-making.
